@@ -1,39 +1,43 @@
-# Hey, I'm Manuel (Manu) 👋
+# Hey, I am Manuel (Manu) 👋
 
-**Aerospace Engineer · Robotics Builder · Applied AI Engineer**
+**Aerospace and Mechanical Engineer (UC3M · TU Delft) turned Applied AI Builder**
 
 > *Moving bits to move atoms.*
 
-I build systems where software meets the physical world — ROS2-controlled robots, fine-tuned computer vision pipelines, and deployed AI applications. My background is unusual: 8 years inside Amazon's EU logistics operations at scale, an Aerospace & Mechanical Engineering degree from UC3M and TU Delft, and an obsession with building things that physically move or perceive the world around them.
+8+ years solving multi-million-dollar operational problems at Amazon and McKinsey. Now independently shipping production AI systems and robotics projects. I bring operational instinct for what AI needs to do for real users, plus hands-on engineering across the full stack.
 
 ---
 
-## 🤖 What I build
+## What I build
 
-**Robotics:** ROS2, Arduino hardware, PID control, IMU filtering, LIDAR navigation, 3D printing, CAD  
-**Computer Vision:** YOLOv8 fine-tuning (97% mAP@50), ByteTrack, OpenCV, real-time spatial logic  
-**Applied AI:** Agentic workflows, Voice AI (Retell.ai, Voiceflow, ElevenLabs), LLM orchestration, RAG  
-**Languages:** Python (advanced), TypeScript, C++, SQL (advanced)
+**AI and Agents:** End-to-end RAG pipelines, autonomous LLM agents, multi-agent systems, LangChain, ChromaDB, prompt engineering, Langfuse observability  
+**Voice AI:** Retell.ai, Voiceflow, ElevenLabs, low-latency multi-turn voice agents with live backend data retrieval  
+**Computer Vision and ML:** YOLOv8 fine-tuning (97% mAP@50), ByteTrack, OpenCV, PyTorch, Weights and Biases  
+**Robotics:** ROS2, Arduino hardware, PID control, IMU filtering, LIDAR navigation, VLA models  
+**Backend and Cloud:** FastAPI, Next.js, Docker, GCP, AWS, Neon Postgres, Vercel serverless  
+**Languages:** Python, TypeScript, C++, SQL
 
 ---
 
-## 📌 Featured projects
+## Featured projects
 
 | Project | What it is |
 |---|---|
-| [self-balancing-robot-ros2-real](https://github.com/manumezog/self-balancing-robot-ros2-real) | Physical self-balancing robot — Arduino Mega, MPU6050, PID control, deployed in hardware |
-| [ROS2-course-wall-follower-robot](https://github.com/manumezog/ROS2-course-wall-follower-robot) | Autonomous LIDAR wall-follower with PD control and deadlock recovery logic |
-| [VisionAI](https://github.com/manumezog/VisionAI) | Real-time object detection and tracking via natural language queries — Gemini 2.5 Flash |
+| [FastPay AI](https://fastpay-ai.mezapps.com) | Autonomous 3-way invoice matching agent built with Gemini 2.5 Flash, Next.js, Neon Postgres. Reads messy vendor PDFs, cross-references POs and WMS receipts, approves or flags with a live reasoning trace |
+| [Portfolio Chat Agent](https://cv.manuelmezo.com) | Production RAG agent: LangChain, ChromaDB, FastAPI, Docker on Hugging Face Spaces, Langfuse observability |
+| [VisionAI](https://github.com/manumezog/VisionAI) | Real-time object detection and tracking via natural language queries, powered by Gemini 2.5 Flash |
 | [SupplyChain-Swarm-Sim](https://github.com/manumezog/SupplyChain-Swarm-Sim) | Adversarial multi-agent simulation stress-testing logistics resilience against Black Swan disruptions |
-| [WMS](https://github.com/manumezog/WMS) | Mobile inventory system using on-device Camera Vision for barcode scanning and cloud sync |
-| [CoffeeCustomerService](https://github.com/manumezog/CoffeeCustomerService) | Voice-first AI customer service agent — Retell.ai, Voiceflow, real-time order lookups |
+| [self-balancing-robot-ros2-real](https://github.com/manumezog/self-balancing-robot-ros2-real) | Physical self-balancing robot on Arduino Mega with MPU6050, PID control, deployed in hardware |
+| [CoffeeCustomerService](https://github.com/manumezog/CoffeeCustomerService) | Omnichannel AI customer service platform: voice (Retell.ai), web chat (Voiceflow), email (Resend) |
 
 ---
 
-## 🔍 Currently exploring
+## Currently looking for
 
-Roles in **robotics, computer vision, and applied AI** — particularly at companies where software interacts with the physical world. Open to AI/ML Engineer, Robotics Solutions Engineer, or Technical PM positions at deep-tech or logistics automation startups.
+**AI Engineer** or **Robotics Engineer** roles at ambitious startups, or **Technical PM** positions where engineering depth is an asset.
+
+Based in Madrid. Open to remote.
 
 ---
 
-📬 [manumezog@gmail.com](mailto:manumezog@gmail.com) · [Portfolio & projects](https://www.cv.manuelmezo.com) · [LinkedIn](https://www.linkedin.com/in/manuelmezo/)
+📬 [manumezog@gmail.com](mailto:manumezog@gmail.com) · [Portfolio and projects](https://www.cv.manuelmezo.com) · [LinkedIn](https://www.linkedin.com/in/manuelmezo/)
