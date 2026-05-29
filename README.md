@@ -21,14 +21,20 @@
 
 ## Featured projects
 
+### Applied AI
+
 | Project | What it is |
 |---|---|
-| [FastPay AI](https://fastpay-ai.mezapps.com) | Autonomous 3-way invoice matching agent built with Gemini 2.5 Flash, Next.js, Neon Postgres. Reads messy vendor PDFs, cross-references POs and WMS receipts, approves or flags with a live reasoning trace |
-| [Portfolio Chat Agent](https://cv.manuelmezo.com) | Production RAG agent: LangChain, ChromaDB, FastAPI, Docker on Hugging Face Spaces, Langfuse observability |
-| [VisionAI](https://github.com/manumezog/VisionAI) | Real-time object detection and tracking via natural language queries, powered by Gemini 2.5 Flash |
-| [SupplyChain-Swarm-Sim](https://github.com/manumezog/SupplyChain-Swarm-Sim) | Adversarial multi-agent simulation stress-testing logistics resilience against Black Swan disruptions |
-| [self-balancing-robot-ros2-real](https://github.com/manumezog/self-balancing-robot-ros2-real) | Physical self-balancing robot on Arduino Mega with MPU6050, PID control, deployed in hardware |
-| [CoffeeCustomerService](https://github.com/manumezog/CoffeeCustomerService) | Omnichannel AI customer service platform: voice (Retell.ai), web chat (Voiceflow), email (Resend) |
+| [Portfolio Chat Agent](https://cv.manuelmezo.com) | Production RAG agent built with LangChain, ChromaDB, and FastAPI. Knowledge base redesigned around semantic story-level chunking for optimal retrieval. Deployed via Docker to Hugging Face Spaces with conversational memory, rate limiting, and Langfuse observability |
+| [FastPay AI](https://fastpay-ai.mezapps.com) | Autonomous 3-way invoice matching agent (Next.js, TypeScript, Neon Postgres). Extracts data from messy vendor PDFs with Gemini 2.5 Flash, cross-references POs and WMS receipts, and autonomously approves or flags discrepancies. 7 custom tools, deterministic decision rules, real-time tracing UI, and a full eval suite via Langfuse |
+| [AI Voice Customer Service Agent](https://coffee-cs.vercel.app) | Production voice agent using Retell.ai and Voiceflow, integrated with real-time order lookup via Vercel serverless functions. Low-latency multi-turn conversation with live backend data retrieval |
+
+### Computer Vision and Robotics
+
+| Project | What it is |
+|---|---|
+| [Custom YOLOv8 Tracking and Spatial Logic](https://cv.manuelmezo.com/#vision) | Custom detection pipeline annotated in Roboflow. Fine-tuned YOLOv8n (~97% mAP@50) with real-time multi-object tracking via ByteTrack and OpenCV. Advanced spatial logic for moving conveyor belts with point-in-polygon pick zones |
+| [VLA AI Model in 3D Printed Robotic Arm](https://cv.manuelmezo.com/#robotics) | Physical 4-axis robotic arm integrated with a cloud-based Vision-Language-Action reasoning engine. Uses Gemini 1.5 Pro to translate natural language voice commands into precise mechanical actuations |
 
 ---
 
